@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Rifugio Digitale</title>
+    <link href="https://rifugiodigitale.github.io/RF_blog/feed.xml" rel="self" />
+    <link href="https://rifugiodigitale.github.io/RF_blog" />
+    <updated>1970-01-01T01:00:00+01:00</updated>
+    <author>
+        <name>Raffaele Farinaro</name>
+    </author>
+    <id>https://rifugiodigitale.github.io/RF_blog</id>
+
+</feed>
