@@ -1,0 +1,437 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "56fff7e7aa55960092b64898245b7e89"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "7c410adc406b2f59b6ac8475d8434c71"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "ffb247881cd6f611d007fd4a96b7b16a"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "1f31e3a6f185a42b74763903ce2f5322"
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min.js",
+        "type": "file",
+        "md5": "d067f0883540b1ddda0e2c9ad1b14260"
+    },
+    {
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "017385b552f7e0d979e2e2fe6f324015"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "3d749dabb6841fddd58797c30636fcf0"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "225cfb4a7e546edee710c4f1208e81e2"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg2js.js",
+        "type": "file",
+        "md5": "a27095529a16a80ab87c2b87a3bc681e"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/gallery-icons-dark.svg",
+        "type": "file",
+        "md5": "452594838e74a3df91ad4a20cf53c831"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light.svg",
+        "type": "file",
+        "md5": "ca77079e0fe8270a7447d7f1f5d543b0"
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "744f624b7352268466fb6e6e09611e71"
+    },
+    {
+        "path": "autori",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "autori/raffaele-farinaro",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/autori/raffaele-farinaro/index.html",
+        "type": "file",
+        "md5": "17468fe27d2708607a3c7cc21cf2bbdc"
+    },
+    {
+        "path": "avventure",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/avventure/index.html",
+        "type": "file",
+        "md5": "f795644425cd7e575991fd929b772baf"
+    },
+    {
+        "path": "bici",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/bici/index.html",
+        "type": "file",
+        "md5": "2cc45db683539ade0e79e415d60fce61"
+    },
+    {
+        "path": "cookies.html",
+        "type": "file",
+        "md5": "1ee77c59d2d22bdc6bd9b7b4a5d7ae20"
+    },
+    {
+        "path": "da-milano-a-monza-in-graziella.html",
+        "type": "file",
+        "md5": "66cf12c6f738c649687eaffcf5ba7d74"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "f29e3734658c0133dd6751f420daf829"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "6e105f42c208ebc2a9ee3f49462a63df"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "81a2cba2dbb771f541d1371fe805b97e"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/files",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/Copertina.jpg",
+        "type": "file",
+        "md5": "93617d5706a64490f6b1d51ce92580ce"
+    },
+    {
+        "path": "/media/posts/6/image1.jpg",
+        "type": "file",
+        "md5": "895241860641905ad02209ccf044006a"
+    },
+    {
+        "path": "/media/posts/6/image2.jpg",
+        "type": "file",
+        "md5": "cc9aaa930d0bb8c0af148ad52ea289e6"
+    },
+    {
+        "path": "/media/posts/6/image3.png",
+        "type": "file",
+        "md5": "129bdfb5f2c08e995c078d811d20f51e"
+    },
+    {
+        "path": "/media/posts/6/image6.png",
+        "type": "file",
+        "md5": "316767c7e4faab8fcbb7e9a00ce6b914"
+    },
+    {
+        "path": "/media/posts/6/image7.png",
+        "type": "file",
+        "md5": "92f55ca394189f58da109fd8b6195bff"
+    },
+    {
+        "path": "media/posts/6/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/responsive/Copertina-2xl.jpg",
+        "type": "file",
+        "md5": "2f9147692c2a7b88a5b42f63bd300481"
+    },
+    {
+        "path": "/media/posts/6/responsive/Copertina-lg.jpg",
+        "type": "file",
+        "md5": "2f9147692c2a7b88a5b42f63bd300481"
+    },
+    {
+        "path": "/media/posts/6/responsive/Copertina-md.jpg",
+        "type": "file",
+        "md5": "7e792f9d90e2aed1397f7e421dae0366"
+    },
+    {
+        "path": "/media/posts/6/responsive/Copertina-sm.jpg",
+        "type": "file",
+        "md5": "c1c1efe5818ba6e94b8351f9fdc61dfa"
+    },
+    {
+        "path": "/media/posts/6/responsive/Copertina-xl.jpg",
+        "type": "file",
+        "md5": "2f9147692c2a7b88a5b42f63bd300481"
+    },
+    {
+        "path": "/media/posts/6/responsive/Copertina-xs.jpg",
+        "type": "file",
+        "md5": "e993ea29a4a45a308001cfaaffea05e5"
+    },
+    {
+        "path": "/media/posts/6/responsive/image1-2xl.jpg",
+        "type": "file",
+        "md5": "95f6e7cdb6280f7f57ef998372ea0ae7"
+    },
+    {
+        "path": "/media/posts/6/responsive/image1-lg.jpg",
+        "type": "file",
+        "md5": "684252a95a09862cfc1abbc63f5d2fa8"
+    },
+    {
+        "path": "/media/posts/6/responsive/image1-md.jpg",
+        "type": "file",
+        "md5": "7d16df571a266e4d0fbbec207522a432"
+    },
+    {
+        "path": "/media/posts/6/responsive/image1-sm.jpg",
+        "type": "file",
+        "md5": "9a9a53b223584905b6d5eb1be810ccaf"
+    },
+    {
+        "path": "/media/posts/6/responsive/image1-xl.jpg",
+        "type": "file",
+        "md5": "95f6e7cdb6280f7f57ef998372ea0ae7"
+    },
+    {
+        "path": "/media/posts/6/responsive/image1-xs.jpg",
+        "type": "file",
+        "md5": "7e5db20a68ba51d38944f6fbf27489af"
+    },
+    {
+        "path": "/media/posts/6/responsive/image2-2xl.jpg",
+        "type": "file",
+        "md5": "b1ce030aa7c563f33614dd03bc0e803f"
+    },
+    {
+        "path": "/media/posts/6/responsive/image2-lg.jpg",
+        "type": "file",
+        "md5": "5a58a78d7ac8f6ae91d53c1b883eb643"
+    },
+    {
+        "path": "/media/posts/6/responsive/image2-md.jpg",
+        "type": "file",
+        "md5": "f0dcce5639ea486e8309864d6613eea7"
+    },
+    {
+        "path": "/media/posts/6/responsive/image2-sm.jpg",
+        "type": "file",
+        "md5": "fb08e4f60fec87013875ac302f282236"
+    },
+    {
+        "path": "/media/posts/6/responsive/image2-xl.jpg",
+        "type": "file",
+        "md5": "6036e57f5bbb28cf96f9feca363c4fb6"
+    },
+    {
+        "path": "/media/posts/6/responsive/image2-xs.jpg",
+        "type": "file",
+        "md5": "00aa288a14b2fd9c66c1080605f99ae2"
+    },
+    {
+        "path": "/media/posts/6/responsive/image3-2xl.png",
+        "type": "file",
+        "md5": "db68f1735a2381a770473319af37a62e"
+    },
+    {
+        "path": "/media/posts/6/responsive/image3-lg.png",
+        "type": "file",
+        "md5": "de6ea61355ffec3c984065b22f896e57"
+    },
+    {
+        "path": "/media/posts/6/responsive/image3-md.png",
+        "type": "file",
+        "md5": "586bde8a62152b488cd018421e8f9833"
+    },
+    {
+        "path": "/media/posts/6/responsive/image3-sm.png",
+        "type": "file",
+        "md5": "760eade9efa15ff3fadfa9f47c358278"
+    },
+    {
+        "path": "/media/posts/6/responsive/image3-xl.png",
+        "type": "file",
+        "md5": "db68f1735a2381a770473319af37a62e"
+    },
+    {
+        "path": "/media/posts/6/responsive/image3-xs.png",
+        "type": "file",
+        "md5": "b1950b0a013e7b26ab39f55147b09acf"
+    },
+    {
+        "path": "/media/posts/6/responsive/image6-2xl.png",
+        "type": "file",
+        "md5": "0e1358afedd3a41f8af9c8e8ff139533"
+    },
+    {
+        "path": "/media/posts/6/responsive/image6-lg.png",
+        "type": "file",
+        "md5": "0e1358afedd3a41f8af9c8e8ff139533"
+    },
+    {
+        "path": "/media/posts/6/responsive/image6-md.png",
+        "type": "file",
+        "md5": "0e1358afedd3a41f8af9c8e8ff139533"
+    },
+    {
+        "path": "/media/posts/6/responsive/image6-sm.png",
+        "type": "file",
+        "md5": "a614a4b4ce5c7a450f8f99e694ec457f"
+    },
+    {
+        "path": "/media/posts/6/responsive/image6-xl.png",
+        "type": "file",
+        "md5": "0e1358afedd3a41f8af9c8e8ff139533"
+    },
+    {
+        "path": "/media/posts/6/responsive/image6-xs.png",
+        "type": "file",
+        "md5": "35cc0828da6c332009865b51078f0424"
+    },
+    {
+        "path": "/media/posts/6/responsive/image7-2xl.png",
+        "type": "file",
+        "md5": "a8f1111b840d63ea351849c48af06a07"
+    },
+    {
+        "path": "/media/posts/6/responsive/image7-lg.png",
+        "type": "file",
+        "md5": "e8537da7b1313943cbcc87bddd59d24d"
+    },
+    {
+        "path": "/media/posts/6/responsive/image7-md.png",
+        "type": "file",
+        "md5": "3f4ea3e59b8ad22dc9f73fdc3bdaca8d"
+    },
+    {
+        "path": "/media/posts/6/responsive/image7-sm.png",
+        "type": "file",
+        "md5": "6913d159ed52117fd623bd334566681c"
+    },
+    {
+        "path": "/media/posts/6/responsive/image7-xl.png",
+        "type": "file",
+        "md5": "27e95e72454ee2557a5e60f0079e9ab6"
+    },
+    {
+        "path": "/media/posts/6/responsive/image7-xs.png",
+        "type": "file",
+        "md5": "251b472f6c41f155690cacc3a05acecd"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/circle_transparent.png",
+        "type": "file",
+        "md5": "46d4aa8d8f2e648e010ad1679a5a1dfd"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/circle_transparent-xs.png",
+        "type": "file",
+        "md5": "bab9c849083505ecf8d61fa311147dbf"
+    },
+    {
+        "path": "/media/website/responsive/RifugioDigitale-_-header-3-xs.png",
+        "type": "file",
+        "md5": "ad36eb9fd584dc19d6b71881eee1ca6a"
+    },
+    {
+        "path": "/media/website/RifugioDigitale-_-header-3.png",
+        "type": "file",
+        "md5": "fe49d92cac426a5774a39989b633d585"
+    },
+    {
+        "path": "privacy-policy.html",
+        "type": "file",
+        "md5": "826a964a64df34e9e1bab9b0370b36b2"
+    },
+    {
+        "path": "search.html",
+        "type": "file",
+        "md5": "806440495888cf0a41156d6936127921"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "6a7d79dacc1cee72a8b739749c3a622c"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    }
+]
