@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "56fff7e7aa55960092b64898245b7e89"
+        "md5": "2a7ebab97f10a19f45fb0047af05ffe5"
     },
     {
         "path": "assets",
@@ -102,7 +102,7 @@
     {
         "path": "/autori/raffaele-farinaro/index.html",
         "type": "file",
-        "md5": "17468fe27d2708607a3c7cc21cf2bbdc"
+        "md5": "f814666b5195d4a9b2cf76efd18935dc"
     },
     {
         "path": "avventure",
@@ -112,7 +112,7 @@
     {
         "path": "/avventure/index.html",
         "type": "file",
-        "md5": "f795644425cd7e575991fd929b772baf"
+        "md5": "737aab5bd52c37dc827016579b2c9720"
     },
     {
         "path": "bici",
@@ -122,32 +122,32 @@
     {
         "path": "/bici/index.html",
         "type": "file",
-        "md5": "2cc45db683539ade0e79e415d60fce61"
+        "md5": "bda12f1bb1fb775b6d9a09dcdc45b708"
     },
     {
         "path": "cookies.html",
         "type": "file",
-        "md5": "1ee77c59d2d22bdc6bd9b7b4a5d7ae20"
+        "md5": "4a08a2c26762e02d3086279a6c97f410"
     },
     {
         "path": "da-milano-a-monza-in-graziella.html",
         "type": "file",
-        "md5": "66cf12c6f738c649687eaffcf5ba7d74"
+        "md5": "57d1a995f88e42b07e3a4408b1d1c29b"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "f29e3734658c0133dd6751f420daf829"
+        "md5": "7f60080032eef3f373272dfbade56724"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "6e105f42c208ebc2a9ee3f49462a63df"
+        "md5": "2f96543f4c11a1a2d8896a28b5ee5c29"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "81a2cba2dbb771f541d1371fe805b97e"
+        "md5": "c774e9f835190448aff4d674df554d79"
     },
     {
         "path": "media",
@@ -417,17 +417,17 @@
     {
         "path": "privacy-policy.html",
         "type": "file",
-        "md5": "826a964a64df34e9e1bab9b0370b36b2"
+        "md5": "690d2805ca17311eb3c448b641fa49fd"
     },
     {
         "path": "search.html",
         "type": "file",
-        "md5": "806440495888cf0a41156d6936127921"
+        "md5": "38bed4337b2f0b9fa9b4ff1f486d9c68"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "6a7d79dacc1cee72a8b739749c3a622c"
+        "md5": "d7ce0d9de47c258b1ecf79326ff455f8"
     },
     {
         "path": "sitemap.xsl",
