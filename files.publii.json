@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "76cf84f403f40ec95094ff8a41c0b7e0"
+        "md5": "ec413ec777b2d2b818032a4a657e7201"
     },
     {
         "path": "assets",
@@ -22,7 +22,7 @@
     {
         "path": "/assets/css/main.css",
         "type": "file",
-        "md5": "7c410adc406b2f59b6ac8475d8434c71"
+        "md5": "b922f2f657ec8972c5aa0a397d0326e8"
     },
     {
         "path": "/assets/css/photoswipe.css",
@@ -32,7 +32,7 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "1f31e3a6f185a42b74763903ce2f5322"
+        "md5": "64093b0fd19d315a8e86eff1dc8da12c"
     },
     {
         "path": "assets/js",
@@ -102,7 +102,7 @@
     {
         "path": "/autori/raffaele-farinaro/index.html",
         "type": "file",
-        "md5": "2ad764081838a2998dae805192e1e96a"
+        "md5": "233c7fbac624c044746270badcc320c7"
     },
     {
         "path": "avventure",
@@ -112,7 +112,7 @@
     {
         "path": "/avventure/index.html",
         "type": "file",
-        "md5": "e2535a0a5ae04cf72b3ffe7426aa94c5"
+        "md5": "bf019156714783e6cde05b5e675e560f"
     },
     {
         "path": "bici",
@@ -122,32 +122,32 @@
     {
         "path": "/bici/index.html",
         "type": "file",
-        "md5": "2925310eb2c699faa6fb472b55d7ba81"
+        "md5": "193518c072e5fe4c2a7ef3a5bdf41950"
     },
     {
         "path": "cookies.html",
         "type": "file",
-        "md5": "169439f717bd1f192eba3a713b0a01e9"
+        "md5": "1176bfc2b1cf391cab063b63990a6be5"
     },
     {
         "path": "da-milano-a-monza-in-graziella.html",
         "type": "file",
-        "md5": "3aeb21ff1204982ba236e46a1e413330"
+        "md5": "bea4b0ca639085a61e9f4580eb4364f7"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "7f60080032eef3f373272dfbade56724"
+        "md5": "75937575e977a33b34395f6c0c9a21d2"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "a1c2ce68d6f48362d7b8fe1c98a3fc36"
+        "md5": "eb99df1da7fe685939593d3b30096df7"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "ac18d9a695fb2c8f96ae88ebeb4fd46d"
+        "md5": "3e6bf51ccff01fc0c5fd69ee043760c3"
     },
     {
         "path": "media",
@@ -417,7 +417,7 @@
     {
         "path": "privacy-policy.html",
         "type": "file",
-        "md5": "2ceb9ac5c67ee4bd25c38e6d292e832c"
+        "md5": "3af695144f543a22b7fa95aa2d766900"
     },
     {
         "path": "rf_logo.png",
@@ -427,12 +427,12 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "d135c9a8058d3adb63e2e4dc83c825ea"
+        "md5": "56e1312cf41e685d36561b9c8315a657"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "d7ce0d9de47c258b1ecf79326ff455f8"
+        "md5": "ca968958885f34249855c6ff6df469d7"
     },
     {
         "path": "sitemap.xsl",

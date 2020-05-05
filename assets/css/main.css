@@ -103,6 +103,7 @@ html {
         font-size: 1.2rem; } }
 
 body {
+  text-align: justify;
   background: var(--white);
   color: var(--text-color);
   font-family: var(--body-font);
@@ -110,6 +111,9 @@ body {
   line-height: var(--line-height);
   -ms-scroll-chaining: none;
   overscroll-behavior: none; }
+p {
+  text-align: justify
+}
 
 a {
   text-decoration: none; }
