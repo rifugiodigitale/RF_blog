@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "8794fcbe899c15415c3174233a4d6d1e"
+        "md5": "76cf84f403f40ec95094ff8a41c0b7e0"
     },
     {
         "path": "assets",
@@ -102,7 +102,7 @@
     {
         "path": "/autori/raffaele-farinaro/index.html",
         "type": "file",
-        "md5": "2098520371009f0af48f05de6d7b7fb6"
+        "md5": "2ad764081838a2998dae805192e1e96a"
     },
     {
         "path": "avventure",
@@ -112,7 +112,7 @@
     {
         "path": "/avventure/index.html",
         "type": "file",
-        "md5": "3c98b0089de6431690efae846811fe7e"
+        "md5": "e2535a0a5ae04cf72b3ffe7426aa94c5"
     },
     {
         "path": "bici",
@@ -122,17 +122,17 @@
     {
         "path": "/bici/index.html",
         "type": "file",
-        "md5": "b5f8ecb1fdfef03eaa116c757a2803d6"
+        "md5": "2925310eb2c699faa6fb472b55d7ba81"
     },
     {
         "path": "cookies.html",
         "type": "file",
-        "md5": "4a61a6c0e3fe3c6848881cdd647adf58"
+        "md5": "169439f717bd1f192eba3a713b0a01e9"
     },
     {
         "path": "da-milano-a-monza-in-graziella.html",
         "type": "file",
-        "md5": "7d3a6f99046625c9b2681f356b202c32"
+        "md5": "3aeb21ff1204982ba236e46a1e413330"
     },
     {
         "path": "feed.json",
@@ -142,17 +142,12 @@
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "06321df877ff1f78866c7476474f4554"
-    },
-    {
-        "path": "footer.html",
-        "type": "file",
-        "md5": "31be77a5562c167e65da05ce1da07b36"
+        "md5": "a1c2ce68d6f48362d7b8fe1c98a3fc36"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "024552460f3fd75aec25a954c074105d"
+        "md5": "ac18d9a695fb2c8f96ae88ebeb4fd46d"
     },
     {
         "path": "media",
@@ -390,51 +385,6 @@
         "md5": "251b472f6c41f155690cacc3a05acecd"
     },
     {
-        "path": "media/posts/8",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/8/circle_transparent-min.png",
-        "type": "file",
-        "md5": "59c101f28b1eb16812208d76cd1ddf62"
-    },
-    {
-        "path": "media/posts/8/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/8/responsive/circle_transparent-min-2xl.png",
-        "type": "file",
-        "md5": "6269e52afa891f00caa95bb375241aa0"
-    },
-    {
-        "path": "/media/posts/8/responsive/circle_transparent-min-lg.png",
-        "type": "file",
-        "md5": "f9459b082b87c16e605b73c4efd321e1"
-    },
-    {
-        "path": "/media/posts/8/responsive/circle_transparent-min-md.png",
-        "type": "file",
-        "md5": "c755c158fe10810e9c73a098844c38cd"
-    },
-    {
-        "path": "/media/posts/8/responsive/circle_transparent-min-sm.png",
-        "type": "file",
-        "md5": "de5e558383b210c0208ebd4b3866868f"
-    },
-    {
-        "path": "/media/posts/8/responsive/circle_transparent-min-xl.png",
-        "type": "file",
-        "md5": "2d9eb3ce7f14b3ea9f1681676e4f211b"
-    },
-    {
-        "path": "/media/posts/8/responsive/circle_transparent-min-xs.png",
-        "type": "file",
-        "md5": "0c6f68165a913409dd68ac244be95298"
-    },
-    {
         "path": "media/website",
         "type": "directory",
         "md5": false
@@ -467,17 +417,22 @@
     {
         "path": "privacy-policy.html",
         "type": "file",
-        "md5": "504b8f57a8708de2aecdebdaf381c63c"
+        "md5": "2ceb9ac5c67ee4bd25c38e6d292e832c"
+    },
+    {
+        "path": "rf_logo.png",
+        "type": "file",
+        "md5": "59c101f28b1eb16812208d76cd1ddf62"
     },
     {
         "path": "search.html",
         "type": "file",
-        "md5": "096fc059f478abe572455a0a2eda156c"
+        "md5": "d135c9a8058d3adb63e2e4dc83c825ea"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "d50026443bddb5e179cfad21777e9149"
+        "md5": "d7ce0d9de47c258b1ecf79326ff455f8"
     },
     {
         "path": "sitemap.xsl",
