@@ -2,7 +2,17 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "ec413ec777b2d2b818032a4a657e7201"
+        "md5": "a42f3b9c2bc1525a8a09d5cc230a54c4"
+    },
+    {
+        "path": "app",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/app/index.html",
+        "type": "file",
+        "md5": "b1e40455acd63b6b005d543ac1c25427"
     },
     {
         "path": "assets",
@@ -102,7 +112,7 @@
     {
         "path": "/autori/raffaele-farinaro/index.html",
         "type": "file",
-        "md5": "233c7fbac624c044746270badcc320c7"
+        "md5": "73324f2e6b046be8edcef63bf813fe0d"
     },
     {
         "path": "avventure",
@@ -112,7 +122,7 @@
     {
         "path": "/avventure/index.html",
         "type": "file",
-        "md5": "bf019156714783e6cde05b5e675e560f"
+        "md5": "bdf52a799f60f138a8b208d9aad71eb5"
     },
     {
         "path": "bici",
@@ -122,32 +132,47 @@
     {
         "path": "/bici/index.html",
         "type": "file",
-        "md5": "193518c072e5fe4c2a7ef3a5bdf41950"
+        "md5": "23765f61cf832fca43a97eceeaceb8fd"
+    },
+    {
+        "path": "come-gestire-le-spese-condivise.html",
+        "type": "file",
+        "md5": "f6cab6d4a06f8876bcfb4304f129ddda"
     },
     {
         "path": "cookies.html",
         "type": "file",
-        "md5": "1176bfc2b1cf391cab063b63990a6be5"
+        "md5": "921a592a43d4302a289f2351b56c560c"
     },
     {
         "path": "da-milano-a-monza-in-graziella.html",
         "type": "file",
-        "md5": "bea4b0ca639085a61e9f4580eb4364f7"
+        "md5": "f31856f37bc5228825588f926d94df6d"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "75937575e977a33b34395f6c0c9a21d2"
+        "md5": "faabcc15dbd23a27213a9d7b44f19808"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "eb99df1da7fe685939593d3b30096df7"
+        "md5": "a4f87a9973cb1b1e521fd9ec904d1bc5"
+    },
+    {
+        "path": "finanza-personale",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/finanza-personale/index.html",
+        "type": "file",
+        "md5": "a3c937b89072c324f0d45300e0dc8f37"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "3e6bf51ccff01fc0c5fd69ee043760c3"
+        "md5": "f5076718d2e8d544d9016b2bd778de24"
     },
     {
         "path": "media",
@@ -385,6 +410,86 @@
         "md5": "251b472f6c41f155690cacc3a05acecd"
     },
     {
+        "path": "media/posts/9",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/image1.png",
+        "type": "file",
+        "md5": "ab2c87f879d8b6a48fabd3f3c22a2c16"
+    },
+    {
+        "path": "/media/posts/9/image2.png",
+        "type": "file",
+        "md5": "ad493065fd9295bad313ef20b2fbad0f"
+    },
+    {
+        "path": "media/posts/9/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/responsive/image1-2xl.png",
+        "type": "file",
+        "md5": "6dec04fc89d09e69428bb469f22b5653"
+    },
+    {
+        "path": "/media/posts/9/responsive/image1-lg.png",
+        "type": "file",
+        "md5": "6dec04fc89d09e69428bb469f22b5653"
+    },
+    {
+        "path": "/media/posts/9/responsive/image1-md.png",
+        "type": "file",
+        "md5": "6dec04fc89d09e69428bb469f22b5653"
+    },
+    {
+        "path": "/media/posts/9/responsive/image1-sm.png",
+        "type": "file",
+        "md5": "ed79cde9f93e59fe9f1cec56c1dda69a"
+    },
+    {
+        "path": "/media/posts/9/responsive/image1-xl.png",
+        "type": "file",
+        "md5": "6dec04fc89d09e69428bb469f22b5653"
+    },
+    {
+        "path": "/media/posts/9/responsive/image1-xs.png",
+        "type": "file",
+        "md5": "c6c74eaaf71adb8b23856d5ab8f01b23"
+    },
+    {
+        "path": "/media/posts/9/responsive/image2-2xl.png",
+        "type": "file",
+        "md5": "bae213059267d5c5c1ad8aa4e8f65fef"
+    },
+    {
+        "path": "/media/posts/9/responsive/image2-lg.png",
+        "type": "file",
+        "md5": "bae213059267d5c5c1ad8aa4e8f65fef"
+    },
+    {
+        "path": "/media/posts/9/responsive/image2-md.png",
+        "type": "file",
+        "md5": "a35492a2f3d4bae24f99fa4b68ee69ca"
+    },
+    {
+        "path": "/media/posts/9/responsive/image2-sm.png",
+        "type": "file",
+        "md5": "ec76c9faddf34c82db2825f3cd2086fc"
+    },
+    {
+        "path": "/media/posts/9/responsive/image2-xl.png",
+        "type": "file",
+        "md5": "bae213059267d5c5c1ad8aa4e8f65fef"
+    },
+    {
+        "path": "/media/posts/9/responsive/image2-xs.png",
+        "type": "file",
+        "md5": "d6070e4b0aa057d84a2974fd03f977ca"
+    },
+    {
         "path": "media/website",
         "type": "directory",
         "md5": false
@@ -417,7 +522,7 @@
     {
         "path": "privacy-policy.html",
         "type": "file",
-        "md5": "3af695144f543a22b7fa95aa2d766900"
+        "md5": "ac1bccab1343c95d27ffdc0cb0632a62"
     },
     {
         "path": "rf_logo.png",
@@ -427,16 +532,26 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "56e1312cf41e685d36561b9c8315a657"
+        "md5": "634b445ec0324ec1c20533608b77260e"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "ca968958885f34249855c6ff6df469d7"
+        "md5": "bc8317e39128237b9d080a3aaf3de490"
     },
     {
         "path": "sitemap.xsl",
         "type": "file",
         "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tecnologia",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tecnologia/index.html",
+        "type": "file",
+        "md5": "0952453d0f13019a9c4c50d624af594f"
     }
 ]
