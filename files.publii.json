@@ -2,12 +2,12 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "b13cede93a8b5def42f54b57fe86f39f"
+        "md5": "0af0e7b386f054adb3d942df4267a138"
     },
     {
         "path": "4th-time-around-bob-dylan.html",
         "type": "file",
-        "md5": "f4017c1b95a2a9cad8b45946e186d20f"
+        "md5": "a219a56d8af891f89818d725e0b77f0b"
     },
     {
         "path": "app",
@@ -17,7 +17,7 @@
     {
         "path": "/app/index.html",
         "type": "file",
-        "md5": "18c3597e0c86f376573738501d35f6b6"
+        "md5": "f6433a9c9b8d16ee29aa761c60577871"
     },
     {
         "path": "assets",
@@ -117,7 +117,7 @@
     {
         "path": "/autori/alessia-giosia/index.html",
         "type": "file",
-        "md5": "f9adc4c65819340f98a5ce3bbd6db2eb"
+        "md5": "607ee8a094c32364af4a85273590df13"
     },
     {
         "path": "autori/anna-chiara-giovannelli",
@@ -127,7 +127,7 @@
     {
         "path": "/autori/anna-chiara-giovannelli/index.html",
         "type": "file",
-        "md5": "aed98796ee48ac94e31cbb1c873536ea"
+        "md5": "eab40eac4d89a539b5a0fa9b4f7d8ae8"
     },
     {
         "path": "autori/raffaele-farinaro",
@@ -137,7 +137,7 @@
     {
         "path": "/autori/raffaele-farinaro/index.html",
         "type": "file",
-        "md5": "52f905bd35173f404b3239972b340a8e"
+        "md5": "d63ca4a7a8b01caf320117a5af732a0a"
     },
     {
         "path": "avventure",
@@ -147,7 +147,7 @@
     {
         "path": "/avventure/index.html",
         "type": "file",
-        "md5": "d977f3d30819775700c2dfe63ff68821"
+        "md5": "31fc8772cf9781622cd449efab8e24bd"
     },
     {
         "path": "bici",
@@ -157,42 +157,47 @@
     {
         "path": "/bici/index.html",
         "type": "file",
-        "md5": "a5929dc826efe987bf1457d30a9670ef"
+        "md5": "233b9a88e6f1318ed2d73823387fb218"
     },
     {
         "path": "blue-monday-new-order-2.html",
         "type": "file",
-        "md5": "69666f1cf55292861ba74b1a48d53c41"
+        "md5": "d623ba8515a88bd295a09adc386ed749"
+    },
+    {
+        "path": "CNAME",
+        "type": "file",
+        "md5": "d93f6525eefdac38966fa92bb9728da9"
     },
     {
         "path": "come-gestire-le-spese-condivise.html",
         "type": "file",
-        "md5": "71c0fcbc189ba7677996bce8d6bbc272"
+        "md5": "ce8cd0f9760d807067409ccdbd348ecc"
     },
     {
         "path": "come-organizzare-la-transiberiana-e-la-transmongolica.html",
         "type": "file",
-        "md5": "4eb242d1937eae093d8dc15c1885c59f"
+        "md5": "11da5319f3b74061f21f47c9d8c9b1b2"
     },
     {
         "path": "cookies.html",
         "type": "file",
-        "md5": "a08ff3d229070d05da7fffaf4111a736"
+        "md5": "3b5488eb1cbdec67f8455d6a89d3858f"
     },
     {
         "path": "da-milano-a-monza-in-graziella.html",
         "type": "file",
-        "md5": "09f72ef8c64c6085e5c6734d8e4b85a8"
+        "md5": "4c9a04f2dfec708951a7f59ae5386ccc"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "1d9f1ffebc80bb26406086892321f8de"
+        "md5": "8b48eb6805f6b595bdbce1bec83b8b79"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "9a7780f399c1a487f32afbdfd1204d2e"
+        "md5": "4bb383464ecc3814bddd44b63089e680"
     },
     {
         "path": "finanza-personale",
@@ -202,37 +207,37 @@
     {
         "path": "/finanza-personale/index.html",
         "type": "file",
-        "md5": "3cebd0212deb5bb3198c2f94ea5a757c"
+        "md5": "0c79a0f21510fe687f4f060de019f6f9"
     },
     {
         "path": "helter-skelter.html",
         "type": "file",
-        "md5": "6a469356fe6554ab3a20d108ef10aa10"
+        "md5": "b25e8a4859d50a15622db7e5e2c31e5f"
     },
     {
         "path": "hitch-hike-the-rolling-stones.html",
         "type": "file",
-        "md5": "e762f4bb5d8902b3146a4b59d5f385ea"
+        "md5": "d717d7fc7970a28327695c8799415c12"
     },
     {
         "path": "home.html",
         "type": "file",
-        "md5": "df1cd1b899cb08453bee6ef9e63707fd"
+        "md5": "f5925222ac4af4937225d3984ab2c458"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "415407708a9b0efa9c874328a6bdc33a"
+        "md5": "60657e2feded78a0e9b49e9dee13e72a"
     },
     {
         "path": "liberi-tutti-subsonica.html",
         "type": "file",
-        "md5": "c7e4f8d002d05485cd6e809df3abe4cc"
+        "md5": "1075c4866b52398677c9e2b9c1f50b2e"
     },
     {
         "path": "love-will-tear-us-apart-again.html",
         "type": "file",
-        "md5": "034d5454fc20a27f7efe2f497e4a9715"
+        "md5": "760c46a3f7ca18f42d66646287f92c83"
     },
     {
         "path": "media",
@@ -2572,12 +2577,12 @@
     {
         "path": "/musica/index.html",
         "type": "file",
-        "md5": "64b4f46709aaefb077a60c00d243ea8b"
+        "md5": "688dca2a166eca84d4ca8615116a4bfb"
     },
     {
         "path": "norwegian-wood-the-beatles.html",
         "type": "file",
-        "md5": "caf3c3247515ae453ff3dac723d651f1"
+        "md5": "419d53918ba3ae7d732458b4e95f211f"
     },
     {
         "path": "pagina",
@@ -2592,12 +2597,12 @@
     {
         "path": "/pagina/2/index.html",
         "type": "file",
-        "md5": "6adc3eb8b94142ef6ef9e3ac3dd579cc"
+        "md5": "48aed1dfa27cd3b80429ebe8130a463c"
     },
     {
         "path": "paint-it-black-the-rolling-stones.html",
         "type": "file",
-        "md5": "ff10c0a1b71cefa3eb895aa470d3e741"
+        "md5": "daaef590ed443477188fb3124b883d7d"
     },
     {
         "path": "playlist-rifugio-digitale",
@@ -2607,12 +2612,12 @@
     {
         "path": "/playlist-rifugio-digitale/index.html",
         "type": "file",
-        "md5": "a2ff034d1e07350c30d63d9c390ee76c"
+        "md5": "beb82e161df4943f0532e928a188a097"
     },
     {
         "path": "privacy-policy.html",
         "type": "file",
-        "md5": "d035431539e16e3091aea4a6af26fbe4"
+        "md5": "51060422e9c178b24801936d0becae74"
     },
     {
         "path": "rf_logo.png",
@@ -2622,12 +2627,12 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "64a71d8570bbcc27551b93d9c43dc909"
+        "md5": "83c971f89947daf98901d3549ce2ab0d"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "7e67088d241c68e45203e26e4b0b8511"
+        "md5": "1382fe5840b2a1879d0b67eda43114e3"
     },
     {
         "path": "sitemap.xsl",
@@ -2642,11 +2647,11 @@
     {
         "path": "/tecnologia/index.html",
         "type": "file",
-        "md5": "12080b3ae107b287805b2a3357558782"
+        "md5": "fa3008684b09fd3c9968cd65fb074925"
     },
     {
         "path": "there-is-a-light-that-never-goes-out-the-smiths.html",
         "type": "file",
-        "md5": "10b9486873a01baf19eb90717e8fd386"
+        "md5": "0c12ae3e5deb27954bd9081fcb38230f"
     }
 ]
